@@ -3,7 +3,7 @@
 
 # Getting Started with the tinyAVR® 1-series
 
-This repository contains training examples on the Microchip tinyAVR® 1-series. Follow the training manual [Training Manual - Getting Started with the tinyAVR® 1-series](www.microchip.com/DS40001949) from Microchip for full step-by-step description. The training is carried out on a ATtiny817 Xplained Pro board.
+This repository contains training examples on the Microchip tinyAVR® 1-series. Follow the training manual [Training Manual - Getting Started with the tinyAVR® 1-series](https://www.microchip.com/DS40001949) from Microchip for full step-by-step description. The training is carried out on a ATtiny817 Xplained Pro board.
 
 This training includes three assignments covering topics such as: 
 - Driver Configuration in [Atmel START](https://start.atmel.com/#)
@@ -18,16 +18,16 @@ The code in this repository is configured for the last assignment. Refer to the 
 
 ## Related Documentation
 
-- [Training Manual - Getting Started with the tinyAVR® 1-series](www.microchip.com/DS40001949)
-- [ATtiny817 Xplained Pro User Guide](www.microchip.com/DS50002684)
-- [ATtiny817 Data Sheet](www.microchip.com/DS40001901)
-- [ATtiny3217 Product Family](https://www.microchip.com/design-centers/8-bit/avr-mcus/device-selection/attiny3217y)
+- [Training Manual - Getting Started with the tinyAVR® 1-series](https://www.microchip.com/DS40001949)
+- [ATtiny817 Xplained Pro User Guide](https://www.microchip.com/DS50002684)
+- [ATtiny817 Data Sheet](https://www.microchip.com/DS40001901)
+- [ATtiny817 Device Page](https://www.microchip.com/wwwproducts/en/ATtiny817)
 
 ## Software Used
 
-- [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or newer
+- [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or later
 - [AVR/GNU C Compiler](http://packs.download.atmel.com/) 
-- [Atmel Studio DFP](http://packs.download.atmel.com/) 1.4.308 or newer
+- [Atmel Studio DFP](http://packs.download.atmel.com/) 1.4.308 or later
 
 ## Hardware Used
 
@@ -56,15 +56,16 @@ By using the same clock source as the RTC function, the PIT can request an inter
 
 1. Connect the ATtiny817 Xplained Pro board to the PC using the USB cable.
 
-2. Download the zip file or clone the example to get the source code.
 
 ## Operation
 
-1. Open the .atsln file in Atmel Studio.
+1. Download the zip file or clone the example to get the source code.
 
-2. Refer to the training manual for step-by-step description on how to program each of the assignments.
+2. Open the .atsln file in Atmel Studio.
 
-3. Build the solution and program the ATtiny817. 
+3. Refer to the training manual for step-by-step description on how to program each of the assignments.
 
-## Summary
+4. Build the solution and program the ATtiny817. 
+
+## Conclusion
  This training exercise demonstrated the different perripherals of tinyAVR 1-series, how to use the Event System to generate Event and how to use CCL to generate output.
