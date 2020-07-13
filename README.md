@@ -24,7 +24,7 @@ The code in this repository is configured for the last assignment. Refer to the 
 ## Software Used
 
 - [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or later
-- [ATtiny DFP](http://packs.download.atmel.com/) 1.4.308 or later
+- [ATtiny DFP](http://packs.download.atmel.com/) 1.6.316 or later
 - AVR/GNU C Compiler (Built-in Compiler) 5.4.0 or later
 
 ## Hardware Used
