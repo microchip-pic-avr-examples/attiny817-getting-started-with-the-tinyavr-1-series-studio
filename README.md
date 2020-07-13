@@ -32,7 +32,7 @@ The code in this repository is configured for the last assignment. Refer to the 
 - [ATtiny817 Xplained Pro](https://www.microchip.com/DevelopmentTools/ProductDetails/attiny817-xpro)
 - Micro-USB cable (Type-A/Micro-B)
 - One female-to-female wire
-- Internet connection
+- Internet connection 
 
 
 ## Operation
